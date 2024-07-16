@@ -1,7 +1,7 @@
 {
   "name": "sowmya-porfolio",
   "version": "0.1.1",
-  "homepage": "https://Sowmyareddy2583.github.io/My-Portfolio",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
