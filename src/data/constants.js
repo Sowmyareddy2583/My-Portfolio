@@ -9,7 +9,7 @@ export const Bio = {
     "I am an enthusiastic and flexible individual, eager to take on new challenges. I enjoy learning and strive to do my best work. With a positive mindset and a willingness to grow, I'm prepared to make a significant impact and achieve excellent results",
   github: "https://github.com/Sowmyareddy2583",
   resume:
-    "https://drive.google.com/file/d/19-cT07PwtMpzB7mVa5vzWQlgUvPesN_e/view?usp=drive_link",
+    "https://drive.google.com/file/d/1x47TGscIDd9ATQfHLZNiLDKfvV0yOLsO/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/c-sowmya-89a188252/",
 };
 
